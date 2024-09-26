@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++,Javascript and HTML
 - 🤔 I’m looking for help with attaching a Speaker to the A9G Board and also to make HTTP requests using the A9G Board.
 - 📫 How to reach me: 10457om@kpsraipur.com
-- 😄 Pronouns: Momos🤣, ok He/Him
+- 😄 Pronouns: Malware
+  
 
